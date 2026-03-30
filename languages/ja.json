@@ -297,7 +297,7 @@
     "PRESS_ALT_NOT_VALID": "Pressure altitude in file is not valid, maximum value is {0} meters.",
     "PRESS_ALT_VIOLATIONS": "Pressure altitude range from {0} to {1} is exceeded in {2} fixes.",
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Hard time constraint ({0} seconds) between fixes almost exceeded at {1}, interval without logging is {2} seconds.",
-    "RAW_TIME_HARD_LIMIT_EXCEEDED": "Hard time constraint ({0} seconds) between fixes exceeded  at {1}, interval without logging is {2} seconds.",
+    "RAW_TIME_HARD_LIMIT_EXCEEDED": "Hard time constraint ({0} seconds) between fixes exceeded at {1}, interval without logging is {2} seconds.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Hard time constraint ({0} seconds) between fixes exceeded outside scoring intervals at {1}, interval without logging is {2} seconds.",
     "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervals exceed soft time limit between fixes ({1}s), allowed {2} intervals."
   },
@@ -965,7 +965,7 @@
   "surface": "水面",
   "switchPlan": "サブスクリプションの切り替え",
   "takeoff": "離陸",
-  "takeoffWeight": "離陸重量（{min}  -  {max})",
+  "takeoffWeight": "離陸重量（{min} - {max})",
   "task": "タスク",
   "taskAnalysisMissedEnd": "タスクは完了していません",
   "taskDeclarationWarning": "これにより、ロガーとWeGlideのすべての宣言が上書きされます。",
